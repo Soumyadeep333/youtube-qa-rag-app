@@ -2,7 +2,7 @@
 
 Ask questions about any YouTube video. Paste the video ID, and the app answers using only the video's transcript.
 
-**Live demo:** [ADD YOUR STREAMLIT LINK HERE]
+**Live demo:** [LINK HERE]
 *(Access code available on request.)*
 
 ![App screenshot](screenshot.png)
