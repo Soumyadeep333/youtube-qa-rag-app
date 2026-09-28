@@ -5,7 +5,7 @@ Ask questions about any YouTube video. Paste the video ID, and the app answers u
 **Live demo:** [LINK HERE]
 *(Access code available on request.)*
 
-![App screenshot](screenshot.png)
+![App screenshot](image.png)
 
 ## What it does
 
